@@ -1,0 +1,21 @@
+ <html>
+<head>
+<title>Group 2:TCMG 412</title>
+
+</head>
+
+
+<tr>
+<hr align="center">
+<center><table><tr><td > <a href= "index.md"> [ Home ]  <a href= "goldenretriever.md"> [ Golden Retrievers ] </a> Reveille </td> </tr></table></center>
+<hr align="center">
+
+<p>	Why Reveille is better than all other dogs.
+
+Reveille is the first lady of Aggieland. She leads the Texas A&M band onto the field during every game.
+Originally, Reveille had free reign of A&M's campus, but now she is cared for by a Mascot Corporal.
+She is escorted by the Mscot Corporal to all functions and Aggie engagements.
+The biggest reason why Reville is better than any other dog, is she is the highest-ranking member in the Corps of Cadets and wears five silver diamonds.
+She is far greater, that if Reveille falls asleep on a cadets bed, they must find a different place to sleep since she outranks them.
+Reveille also controls classrooms, if she barks, then the class ends because she thinks it is boring.
+</p>
