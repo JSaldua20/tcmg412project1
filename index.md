@@ -12,6 +12,10 @@
 <h2 align="center">Group 2 Project 1</h2>
 <h3 align="center">By: Julia Raburn, Joshua Saldua, Jonathan Illori, Tanner Sheldon</h3>
 <h4 align="center">
+ 
+<hr align="center">
+<center><table><tr><td > Home <a href={{ goldenretriever.md }}>{{ Golden Retrievers }}</a> [ Golden Retriever ] </a> <a href= "myyears.html"> [ My Years ]  </a></td> </tr></table></center>
+<hr align="center">
 
 <script type="text/javascript"> 
 function display_c(){
