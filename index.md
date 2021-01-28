@@ -10,7 +10,7 @@
 
 <h1><marquee>Howdy!</marquee></h1>
 <h2 align="center">Group 2 Project 1</h2>
-<h3 align="center">By: Julia Raburn, Joshua Saldua, Jonathan Illori, Tanner Sheldon</h2>
+<h3 align="center">By: Julia Raburn, Joshua Saldua, Jonathan Illori, Tanner Sheldon</h3>
 <h4 align="center">
 
 <script type="text/javascript"> 
@@ -25,14 +25,12 @@ document.getElementById('ct').innerHTML = x;
 display_c();
  }
 </script>
-</head>
 
-<body onload=display_ct();>
 <span id='ct' ></span>
 </h4>
 <hr align="center">
 
-<p>	Intro par
+<p>	Howdy, we created this webpage for a group project where we split into a Dev team and an Ops team. On the Dev team was Jonathan and Tanner. Julia and Joshua worked on the deployment of the webpage and were on the Ops team.
 </p>
 <p>	2 par
 </p>
@@ -40,19 +38,3 @@ display_c();
 </p>
 
 <hr align="center">
-
-</td>
-</tr>
-</table>
-</body>
-
-
-
-
-</html>
-
-
-
-</html>
-
-</html>
