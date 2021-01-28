@@ -1,28 +1,58 @@
-#Howdy!
-##Authors:
--Julia Raburn
--Joshua Saldya
--Jonathan Illori
--Tanner Sheldon
-Title: -Team 4- 
-Tags: TCMG, A&M
-Date: 2021-01-28
-Modified: 2021-01-28
-Category: -Home-
-Authors: Julia Raburn, Joshua Saldua
-Summary: Welcome to our website for TCMG 412 Project 1
-
 <html>
-    <head>
-        <title>-Team 4-</title>
-        <meta name="tags" content="TCMG, A&M" />
-        <meta name="date" content="2021-01-28" />
-        <meta name="modified" content="2021-01-28" />
-        <meta name="category" content="-Home-" />
-        <meta name="authors" content="Julia Raburn, Joshua Saldua" />
-        <meta name="summary" content="Welcome to our website for TCMG 412 Project 1" />
-    </head>
-    <body>
-        <center><img src="images/logo.jpg" alt="Texas A&M Logo" width="200" height="200">
-        <p>Welcome to Group 4's website for TCMG 412 Project 1..</p>
-    </body>
+<head>
+<title>Group 2:TCMG 412</title>
+
+</head>
+
+
+<tr>
+
+
+<h1><marquee>Howdy!</marquee></h1>
+<h2 align="center">Group 2 Project 1</h2>
+<h3 align="center">By: Julia Raburn, Joshua Saldua, Jonathan Illori, Tanner Sheldon</h2>
+<h4 align="center">
+
+<script type="text/javascript"> 
+function display_c(){
+var refresh=1000; // Refresh rate in milli seconds
+mytime=setTimeout('display_ct()',refresh)
+}
+
+function display_ct() {
+var x = new Date()
+document.getElementById('ct').innerHTML = x;
+display_c();
+ }
+</script>
+</head>
+
+<body onload=display_ct();>
+<span id='ct' ></span>
+</h4>
+<hr align="center">
+
+<p>	Intro par
+</p>
+<p>	2 par
+</p>
+<p>3 par
+</p>
+
+<hr align="center">
+
+</td>
+</tr>
+</table>
+</body>
+
+
+
+
+</html>
+
+
+
+</html>
+
+</html>
