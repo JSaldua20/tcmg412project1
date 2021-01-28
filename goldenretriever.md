@@ -1,3 +1,13 @@
+<html>
+<head>
+<title>Group 2:TCMG 412</title>
+
+</head>
+
+
+<tr>
+
+
 <hr align="center">
 <center><table><tr><td > (: About Me :)  <a href= "resumeoutline.html"> [ Resume Outline ] </a> <a href= "myyears.html"> [ My Years ]  </a></td> </tr></table></center>
 <hr align="center">
