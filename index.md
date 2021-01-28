@@ -14,7 +14,7 @@
 <h4 align="center">
  
 <hr align="center">
-<center><table><tr><td > Home  <a href= "goldenretriever.html"> [ Golden Retrievers ] </a>  <a href= "reveille.md"> [ Reveille ] </a></td> </tr></table></center>
+<center><table><tr><td > <b>Home</b>  <a href= "goldenretriever.html"> [ Golden Retrievers ] </a>  <a href= "reveille.md"> [ Reveille ] </a></td> </tr></table></center>
 <hr align="center">
 
 <script type="text/javascript"> 
