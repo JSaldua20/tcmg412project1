@@ -8,6 +8,10 @@ theme: jekyll-theme-cayman
 
 <tr>
 
+<h1><marquee>Howdy!</marquee></h1>
+<h2 align="center">Group 2 Project 1</h2>
+<h3 align="center">By: Julia Raburn, Joshua Saldua, Jonathan Illori, Tanner Sheldon</h3>
+<h4 align="center">
 
 <hr align="center">
 <center><table><tr><td > <a href= "goldenretriever.md"> [ Home ] </a> Golden Retrievers <a href= "reveille.md"> [ Reveille ]  </a></td> </tr></table></center>
